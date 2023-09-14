@@ -1,4 +1,4 @@
-### Hi there 👋
+### This repository is for assignments and learning on the software campus.
 
 <!--
 **wish243/wish243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
